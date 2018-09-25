@@ -2,7 +2,7 @@
 
 ## Description
 
-Librairie Python3 permettant de logguer des données dans des fichiers CSV datées.  
+Librairie Python3 permettant de loguer des données dans des fichiers CSV datés.  
 
 ## Exemples
 
