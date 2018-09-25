@@ -86,8 +86,8 @@ Ce qui donne :
 
 ```bash
 # cat /home/user/data.dat
-date;time;data1;data2
-2018-09-25;09:00:49;foo;bar
-2018-09-25;09:00:49;foo;bar
+# date;time;data1;data2
+# 2018-09-25;09:00:49;foo;bar
+# 2018-09-25;09:00:49;foo;bar
 ```
 
